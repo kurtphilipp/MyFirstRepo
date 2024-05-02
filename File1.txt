@@ -1,1 +1,2 @@
 This is some text
+add-content -Path .\File1.txt -Value "Adding this change on the conflict branch"
