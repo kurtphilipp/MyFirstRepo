@@ -1,1 +1,3 @@
 This is some text
+Changing this file here.
+add-content -Path .\File1.txt -Value 'Adding this change on the main branch'
